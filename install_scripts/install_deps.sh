@@ -14,4 +14,4 @@ sudo pip3 install tqdm
 sudo pip3 install sklearn
 
 sudo pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.4
-
+sudo pip3 install jetson-emulator==1.0.0
